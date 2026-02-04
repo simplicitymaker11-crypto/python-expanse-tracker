@@ -7,7 +7,7 @@ This project uses CSV file storage and provides a menu-driven command-line inter
 
 Ideal for Python beginners, semester projects, and logic-building practice.
 
-🔍 Project Keywords (SEO)
+🔍 Project Keywords 
 
 Python Expense Tracker, CLI Expense Manager, Budget Tracker Python, CSV Expense Tracker,
 Python File Handling Project, Python Beginner Project, Command Line Application Python
@@ -46,7 +46,7 @@ expense-tracker-python/
 
 ⚙️ How to Run the Project
 1️⃣ Clone Repository
-git clone https://github.com/your-username/expense-tracker-python.git
+git clone https://github.com/simplicitymaker11-crypto/expense-tracker-python.git
 
 2️⃣ Install Dependency
 pip install tabulate
