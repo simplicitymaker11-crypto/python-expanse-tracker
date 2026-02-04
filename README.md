@@ -1,5 +1,5 @@
 # python-expanse-tracker
-A Python CLI-based expense tracker using CSV file storage
+
 Expense Tracker in Python 🐍 | CLI-Based Budget Management System
 
 A Python CLI Expense Tracker that helps users track, manage, and summarize daily expenses efficiently.
