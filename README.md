@@ -94,7 +94,7 @@ GUI version using Tkinter or PyQt
 
 Uzair Basheer
 Python Developer | Logic Building Enthusiast
-🔗 Portfolio-ready CLI project
+
 
 ⭐ Support
 
