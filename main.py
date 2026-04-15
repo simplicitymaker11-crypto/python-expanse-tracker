@@ -331,19 +331,3 @@ while True:
      input("Enter any key to perceed: ") 
      clear()
      continue       
- 
-
- 
- 
-   
- 
- 
- 
-             
- 
- 
- 
-     
- 
-
-
